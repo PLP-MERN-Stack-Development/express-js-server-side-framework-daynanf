@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "express-js-server-side-framework-daynanf",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-daynanf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-daynanf/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-daynanf#readme"
+}
